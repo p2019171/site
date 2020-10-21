@@ -16,9 +16,11 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.
-<p class="codepen" data-height="301" data-theme-id="light" data-default-tab="css,result" data-user="theodorastrapatsa" data-slug-hash="WNxxGeX" data-preview="true" style="height: 301px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="WNxxGeX">
-  <span>See the Pen <a href="https://codepen.io/theodorastrapatsa/pen/WNxxGeX">
-  WNxxGeX</a> by 2019171 (<a href="https://codepen.io/theodorastrapatsa">@theodorastrapatsa</a>)
+
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="theodorastrapatsa_2019171" data-slug-hash="WNxxGeX" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="button">
+  <span>See the Pen <a href="https://codepen.io/theodorastrapatsa_2019171/pen/WNxxGeX">
+  button</a> by 2019171 (<a href="https://codepen.io/theodorastrapatsa_2019171">@theodorastrapatsa_2019171</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
